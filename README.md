@@ -32,6 +32,6 @@ change http://1127.0.0.1     to your web server
 
 4) publish your extension one chrome web store or adon mozilla
 
-# waring
+# waring !!!!!!!
 
 # I am in no way responsible for your actions, you risk going to prison

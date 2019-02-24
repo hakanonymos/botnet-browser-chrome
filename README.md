@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=UDCbjAC1eCE
 
 -web server for exemple hosgator, or free hosting (00webhost ) or wampserver or xhampp ... to test your extension
 
--publish your extension in  chrome web store or adon mozilla ( video can found here https://www.youtube.com/watch?v=05_6bqjGqyo or my web site malware in the browser
+-publish your extension in  chrome web store or adon mozilla ( video can found here https://www.youtube.com/watch?v=05_6bqjGqyo )
 
 # how it works ?
 

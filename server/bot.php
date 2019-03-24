@@ -2,7 +2,7 @@
 
 	if($_GET){
 		$ip = $_SERVER['REMOTE_ADDR'] ;
-		$date = new DateTime("now", new DateTimeZone('Africa/Dakar') ); //SET YOUR DATETIMEZONE
+		$date = new DateTime("now", new DateTimeZone('Africa/Dakar') ); //SET YOUR DATETIMEZONE for exemple France/Paris
 		$d =  $date->format('d/m/Y H:i:s');
 		$log = $_GET['values'];
 		$txt = '<tr> <th scope="row">'.$ip.'<br> '.$d.' </th> <td width="100%" class="box3D"> '.$log.' </td> </tr>';

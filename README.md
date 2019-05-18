@@ -19,7 +19,9 @@ http://bit.ly/2VI9EwY
 
 -publish your extension in  chrome web store or adon mozilla ( video can found here http://bit.ly/2HnfniO )
 
-# how it works ?
+# how it works ? this projet was abandoned
+
+# download bot here includ a tutorial video https://rocketr.net/buy/2ed13d1dccc9
 
 1) open keylog
 

@@ -1,4 +1,4 @@
-# this projet was abandoned in github
+
 
 
 
@@ -7,7 +7,8 @@
   
                     https://github.com/hakanonymos
 
-					
+	 this projet was abandoned in github
+
 ****************************************************************/
 
 

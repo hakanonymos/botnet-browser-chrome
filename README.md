@@ -21,7 +21,7 @@ http://bit.ly/2VI9EwY
 
 # how it works ? this projet was abandoned
 
-# download bot here includ a tutorial video http://bit.ly/2EllSki
+# download bot here includ a tutorial video https://gumroad.com/l/Myuld
 
 1) open keylog
 

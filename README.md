@@ -35,3 +35,4 @@ change http://1127.0.0.1     to your web server
 # waring !!!!!!!
 
 # I am in no way responsible for your actions, you risk going to prison
+# skype et Emai : hakanonymos@hotmail.com

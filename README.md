@@ -21,8 +21,6 @@ http://bit.ly/2VI9EwY
 
 # how it works ? this projet was abandoned
 
-# download bot here includ a tutorial video https://gumroad.com/l/Myuld
-
 1) open keylog
 
 change http://1127.0.0.1     to your web server 

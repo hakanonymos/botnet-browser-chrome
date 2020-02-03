@@ -35,3 +35,5 @@ change http://1127.0.0.1     to your web server
 
 # I am in no way responsible for your actions, you risk going to prison
 # skype et Emai : hakanonymos@hotmail.com
+# ICQ : hakanonymos
+# whatsapp  +1 315 636 6596

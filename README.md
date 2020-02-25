@@ -10,7 +10,7 @@ botnet browser chrome,mozilla firefox,capture card number any web site ,paypal,f
 
 ![3](https://user-images.githubusercontent.com/30985149/51928145-1e0e8480-23ed-11e9-9e69-cf2c8268e80a.png)
 
-# demo video Youtub (new version php but older javascript code )
+# demo video Youtub 
 https://youtu.be/ljZsw3bRxPY
 
 # what do you need ? 
@@ -36,4 +36,4 @@ change http://1127.0.0.1     to your web server
 # skype et Emai : hakanonymos@hotmail.com
 # ICQ : hakanonymos
 # whatsapp  +1 315 636 6596
-this is older version if you need a fud version contact me
+this is older version of javascript but new version php,if you need a fud version contact me

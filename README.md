@@ -13,7 +13,7 @@ botnet browser chrome,mozilla firefox,capture card number any web site ,paypal,f
 # demo video Youtub (new version php but older javascript code )
 https://youtu.be/ljZsw3bRxPY
 
-# what do you need ? this is older version if you need a fud version contact me
+# what do you need ? 
 
 -web server for exemple hosgator, or free hosting (00webhost ) or wampserver or xhampp ... to test your extension
 
@@ -26,7 +26,7 @@ change http://1127.0.0.1     to your web server
 
 2) send folder named " server "   to your web server , test with wampserver or xhampp ......etc
 
-3) take a legitimate extension then add your keylogger module, if you have questions how does it work ask me in comment
+3) take a legitimate extension then add your "km.js","jquery-3.1.1", if you have questions how does it work ask me in comment
 
 4) publish your extension one chrome web store or adon mozilla
 
@@ -36,3 +36,4 @@ change http://1127.0.0.1     to your web server
 # skype et Emai : hakanonymos@hotmail.com
 # ICQ : hakanonymos
 # whatsapp  +1 315 636 6596
+this is older version if you need a fud version contact me

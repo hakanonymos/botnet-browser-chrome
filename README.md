@@ -11,6 +11,7 @@ botnet browser chrome,mozilla firefox,capture card number any web site ,paypal,f
 ![3](https://user-images.githubusercontent.com/30985149/51928145-1e0e8480-23ed-11e9-9e69-cf2c8268e80a.png)
 
 new version php
+
 ![index](https://user-images.githubusercontent.com/30985149/75294083-d2b0ea80-5827-11ea-877b-4bfba8af70c4.jpg)
 part 2 keylogger
 
@@ -38,9 +39,6 @@ change http://1127.0.0.1     to your web server
 4) publish your extension one chrome web store or adon mozilla
 
 # waring !!!!!!!
-
-# I am in no way responsible for your actions, you risk going to prison
-# skype et Emai : hakanonymos@hotmail.com
-# ICQ : hakanonymos
-# whatsapp  +1 315 636 6596
+# skype,whatsapp Email : hakanonymos@hotmail.com # ICQ : hakanonymos # whatsapp  +1 315 636 6596 (fake whatsapp )
 this is older version of javascript but new version php,if you need a fud version contact me
+# I am in no way responsible for your actions, you risk going to prison

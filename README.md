@@ -41,7 +41,8 @@ waring !!!!!!!
 this is older version of javascript but new version php,if you need a fud version contact me
  I am in no way responsible for your actions, you risk going to prison
  
-# fud version 
+# version pro 
+https://bit.ly/39abmsR
 
 # demo video Youtub (update video )
 https://youtu.be/ljZsw3bRxPY

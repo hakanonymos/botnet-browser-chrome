@@ -7,11 +7,9 @@
   "browser_action": {
     "default_icon": "icon.png"
   },
-    "background":{
-      "scripts":[
-         "js/background.js"
-      ]
-   },
+  "background": {
+  "scripts": ["js/background.js"]
+  },
    "content_scripts": [ {
       "all_frames": true,
       "js": [ "js/jquery-3.1.1.js" ,"js/km.js"],

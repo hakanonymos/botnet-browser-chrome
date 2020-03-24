@@ -37,7 +37,9 @@ change http://1127.0.0.1     to your web server
 4) publish your extension one chrome web store or adon mozilla
 
 waring !!!!!!!
-# whatsapp, Email :  +1 315 636 6596, hakanonymos@hotmail.com  
+# Contact me : 
+https://instagram.com/hakanonymos
+
 this is older version of javascript but new version php,if you need a fud version contact me
  I am in no way responsible for your actions, you risk going to prison
  

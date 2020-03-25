@@ -44,7 +44,7 @@ this is older version of javascript but new version php,if you need a fud versio
  I am in no way responsible for your actions, you risk going to prison
  
 # version pro 
-https://donivarshop.com/bot/
+ https://hakanonymos.com
 
 # demo video Youtub (update video )
 https://youtu.be/ljZsw3bRxPY

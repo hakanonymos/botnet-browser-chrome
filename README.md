@@ -1,7 +1,5 @@
 # botnet-browser-chrome
 botnet browser chrome,mozilla firefox,capture card number any web site ,paypal,facebook,e-commerce ,get card number,expiration date, CVV 
-# New version Browser javascript Botent V 3
-https://github.com/hakanonymos/browser-javascript-botnet-v3
 
 # Help 
 ![1](https://user-images.githubusercontent.com/30985149/76715397-24141180-6724-11ea-8623-21d963a81c92.png)

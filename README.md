@@ -52,6 +52,6 @@ this is older version of javascript but new version php,if you need a fud versio
  https://hakanonymos.com
 
 # demo video Youtub (update video )
-https://youtu.be/ljZsw3bRxPY
+https://bit.ly/2x1yhd2
 
 

@@ -51,7 +51,8 @@ Instagram : https://www.instagram.com/hakanonymos
 #######################################################
 
 # demo video Youtub (update video )
-https://bit.ly/2x1yhd2
+
+https://www.youtube.com/watch?v=ljZsw3bRxPY&t=1s
 
 # New version Browser javascript Botent V 3
 https://github.com/hakanonymos/browser-javascript-botnet-v3

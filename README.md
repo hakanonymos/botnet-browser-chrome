@@ -48,8 +48,16 @@ this is older version of javascript but new version php,if you need a fud versio
  I am in no way responsible for your actions, you risk going to prison
  
  
-# version pro 
- https://hakanonymos.com
+# Version pro 
+
+##################################################
+
+Email : hakanonymos@hotmail.com
+whatsapp +1 315 636 6596  ( I speak French /English )
+
+Instagram : https://www.instagram.com/hakanonymos
+
+#######################################################
 
 # demo video Youtub (update video )
 https://bit.ly/2x1yhd2

@@ -1,2 +1,2 @@
-*.c linguist-detectable=false
-*.php linguist-detectable=true
+* linguist-vendored
+*.php linguist-vendored=true

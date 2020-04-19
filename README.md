@@ -56,8 +56,6 @@ Instagram : https://www.instagram.com/hakanonymos
 
 https://www.youtube.com/watch?v=ljZsw3bRxPY&t=1s
 
-# New version Botnet javascript Firefox Chrome V 2
-https://github.com/hakanonymos/botnet-browser-chrome-firefox-V2
   
 
 

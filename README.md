@@ -14,12 +14,6 @@ botnet browser chrome,mozilla firefox,capture card number any web site ,paypal,f
 
 ![3](https://user-images.githubusercontent.com/30985149/76715434-49a11b00-6724-11ea-813c-5d631e36ed9f.jpg)
 
-2nd keylogger
-
-![5](https://user-images.githubusercontent.com/30985149/76715441-558cdd00-6724-11ea-915d-2fc7a19a7bee.jpg)
-
-
-
 # what do you need ? 
 
 -web server for exemple hosgator, or free hosting (00webhost ) or wampserver or xhampp ... to test your extension

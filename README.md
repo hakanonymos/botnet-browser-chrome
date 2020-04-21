@@ -35,7 +35,7 @@ waring !!!!!!!
 # Version pro to bypass mozilla firefox or chrome web store
 # Contact me because this version was shared by many people and it is not fud
 
-https://bit.ly/3bsV6Fa
+https://rocketr.net/buy/851fda7de5e1
 
 ##################################################
 

@@ -31,9 +31,8 @@ change http://1127.0.0.1     to your web server
 
 4) publish your extension one chrome web store or adon mozilla
 
-waring !!!!!!!
-# Version pro to bypass mozilla firefox or chrome web store
-# Contact me because this version was shared by many people and it is not fud
+# waring !!!!!!!
+Version pro to bypass mozilla firefox or chrome web store ,Contact me because this version was shared by many people and it is not fud
 https://shoppy.gg/@hakanonymos
 
 ##################################################

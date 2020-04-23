@@ -51,6 +51,9 @@ https://www.youtube.com/watch?v=ljZsw3bRxPY&t=1s
 
 # New version beautiful design
 
+![keystroks](https://user-images.githubusercontent.com/30985149/80127532-fc666380-8583-11ea-9fbd-5a086499e628.jpeg)
+
+
 https://github.com/hakanonymos/botnet-browser-chrome-firefox-V2
 
   

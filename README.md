@@ -34,8 +34,8 @@ open log without redirect , remove log very simple (new panel )
 
 # Installation Server
 
-Start your wampserver,xamp ....etc and send the "panel" file to your server
-+ panel
+Start your wampserver,xamp ....etc and send the "server" folder to your server
++ server
 1. `config.php`
 
 usernam  = admin

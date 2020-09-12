@@ -28,11 +28,11 @@ https://github.com/hakanonymos/botnet-browser-chrome-firefox-V3
 
 ![WhatsApp Image 2020-04-29 at 18 16 32](https://user-images.githubusercontent.com/30985149/81166239-ec3a8500-8f82-11ea-951f-32392a168dbc.jpeg)
 
-open log without redirect , remove log very simple (new panel )
+open log without redirect , remove log very simple 
 
 ![file2](https://user-images.githubusercontent.com/30985149/92989185-3b14a000-f4ca-11ea-8637-368880ff07ac.JPG)
 
-# Installation Server
+# Configuration : Server
 
 Start your wampserver,xamp ....etc and send the "server" folder to your server
 + server
@@ -53,7 +53,7 @@ you can use Europe/Paris or America/New_York
 if you want to change DATETIMEZONE clique here https://www.php.net/manual/en/timezones.php
 
 
-# Configuration Extension 
+# Configuration : extension
 
 inject javascript code into web browser of victime or use extension chrome or mozilla firefox
 
@@ -65,7 +65,7 @@ and save changes
 + `background.js`
 change "url" redirect after install extension
 
-# Installation Extension Chrome / Mozilla Firefox
+# Installation Chrome / Firefox
 + Chrome
 1. Open Chrome browser and navigate to `chrome://extensions`
 2. Select "Developer Mode" and then click "Load unpacked extension...

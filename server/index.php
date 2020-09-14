@@ -144,7 +144,7 @@ font-size: 16px;"><a href="login.php" class="btn btn-danger square-btn-adjust">L
                 // Delete file
                 var http   = new XMLHttpRequest();
                 var params = "log_file=" + log + "&cleanLogs";
-                http.open("POST", "remove.php", true);
+                http.open("POST", "remove1.php", true);
 
                 http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
                 http.send(params);

@@ -12,6 +12,14 @@ if (!isset($_SESSION['logged_in'])
       <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title> Web Panel</title>
+
+
+    <script src="css/bootstrap/js/jquery-3.4.1.min.js"></script>
+    <script src="css/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="css/bootstrap/js/sweetalert.min.js"></script>
+    <link href="css/icons.css" rel="stylesheet">
+    <link href="css/ubuntu.css" rel="stylesheet"> 
+
 	<!-- BOOTSTRAP STYLES-->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
      <!-- FONTAWESOME STYLES-->
@@ -24,6 +32,37 @@ if (!isset($_SESSION['logged_in'])
    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
 </head>
 <body>
+
+   <?php
+    // Get dirs
+    function get_dirs($dir = '') {
+        return array_filter(glob('dashboard/' . $dir . '*'), 'is_dir');
+    }
+    // Get log files in dir
+    function get_files($dir = '') {
+        return array_filter(glob($dir . '*.html'), 'is_file');
+    }
+    ?>
+  
+   <style type="text/css">
+        .i {
+            position: relative;
+            top: 5px;
+        }
+        .sinfo:hover {
+            color: #f00;
+            cursor: pointer;
+        }
+        .skeylogs:hover {
+            color: #f00;
+            cursor: pointer;
+        }
+        .rlogs:hover {
+            color: #f00;
+            cursor: pointer;
+        }
+    </style>
+
     <div id="wrapper">
         <nav class="navbar navbar-default navbar-cls-top " role="navigation" style="margin-bottom: 0">
             <div class="navbar-header">
@@ -90,8 +129,72 @@ font-size: 16px;"><a href="login.php" class="btn btn-danger square-btn-adjust">L
                             <div class="table-responsive">
                                 <table class="table table-striped table-bordered table-hover" id="Keystrokes">  
 
+<script type="text/javascript">
+        // Read info
+        
+        // Remove log file
+        function remove_log(log, row, callback) {
+            swal({
+              title: "Are you sure?",
+              text: "Delete log file?\n" + log,
+              icon: "warning",
+              buttons: true
+            }).then((result) => {
+              if (result) {
+                // Delete file
+                var http   = new XMLHttpRequest();
+                var params = "log_file=" + log + "&cleanLogs";
+                http.open("POST", "remove.php", true);
+
+                http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+                http.send(params);
+                // Message
+                swal(
+                  "Deleted!",
+                  "Your file has been deleted.",
+                  "success"
+                );
+                // Hide
+                $(row).parent().parent().hide(1000);
+              }
+                 });
+        }
+        
+    </script>
+    
+<tbody>
+  <!-- TABLE -->
+  <table class="table table-dark table-hover" id="logsTable" style="margin-top: 3%;">
+    <thead>
+      <tr style="font-family: 'Ubuntu', sans-serif;">
+        <th scope="col"> <i class="i material-icons">router</i> Host</th>
+        <th> </th>
+        <th> </th>
+        <th scope="col"> <i class="i material-icons">settings</i> Settings</th>
+      </tr>
+    </thead>
+    <tbody>
+
+<?php
+  // Get logs  
+      foreach(glob('dashboard/*.html') as $file){ 
+        $remote_ip =explode("/", $file)[1]; 
+   // show log data
+        echo "
+        <tr>
+          <td>$remote_ip</td>
+          <td></td>
+          <td></td>
+           <td>
+            <i title='Show information' class='sinfo material-icons' onclick=\"window.open('$file ','newwindow', 'width=700,height=700');return false;\">credit_card</i>
+            <i title='Remove log' class='rlogs material-icons' onclick=\"remove_log('$file', this);\">delete_forever</i>
+          </td>
+        </tr>";
+      }
+  ?>
+    </tbody>
+  </table>
 </thead>
-</table>
 
 </body>
 </html>

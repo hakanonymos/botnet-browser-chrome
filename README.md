@@ -44,6 +44,8 @@ password = admin
 
 2. `log1.php` 
 
+Line 13
+
 
 If you want : SET YOUR DATETIMEZONE HERE :
 
@@ -84,6 +86,8 @@ version pro and fud can found here https://shoppy.gg/product/5d9ifM3
 # Contact 
 
 hakanonymos@hotmail.com
+
+instagram : hakanonymos
 
 Whatsapp: +1 315 63 66 596
 

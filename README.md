@@ -15,9 +15,6 @@ botnet browser chrome,mozilla firefox,capture card number any web site ,paypal,f
 
 # New Panel ( version 3)
 
-https://github.com/hakanonymos/botnet-browser-chrome-firefox-V3
-
-
 # Screenshot (2020 )
 ![keylog](https://user-images.githubusercontent.com/30985149/92989181-3354fb80-f4ca-11ea-94ed-e5873fc21811.JPG)
 

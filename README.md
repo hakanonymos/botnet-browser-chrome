@@ -16,18 +16,18 @@ botnet browser chrome,mozilla firefox,capture card number any web site ,paypal,f
 # New Panel ( version 3)
 
 # Screenshot (2020 )
-![keylog](https://user-images.githubusercontent.com/30985149/92989181-3354fb80-f4ca-11ea-94ed-e5873fc21811.JPG)
 
-
+![téléchargement (1)](https://user-images.githubusercontent.com/30985149/93617576-0e7eed80-f9ce-11ea-98a6-d169bdf9bf97.jpg)
 
 ![WhatsApp Image 2020-05-06 at 09 56 37](https://user-images.githubusercontent.com/30985149/81164786-72090100-8f80-11ea-9aaf-2dfe901abcca.jpeg)
 
 
 ![WhatsApp Image 2020-04-29 at 18 16 32](https://user-images.githubusercontent.com/30985149/81166239-ec3a8500-8f82-11ea-951f-32392a168dbc.jpeg)
 
-open log without redirect , remove log very simple 
+open log without redirect , remove log very simple
 
-![file2](https://user-images.githubusercontent.com/30985149/92989185-3b14a000-f4ca-11ea-8637-368880ff07ac.JPG)
+![Capture](https://user-images.githubusercontent.com/30985149/93617528-ff983b00-f9cd-11ea-9ac0-7078bab8d317.JPG)
+
 
 Demo video : Chrome 
 

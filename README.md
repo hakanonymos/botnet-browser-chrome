@@ -29,13 +29,13 @@ open log without redirect , remove log very simple
 ![Capture](https://user-images.githubusercontent.com/30985149/93617528-ff983b00-f9cd-11ea-9ac0-7078bab8d317.JPG)
 
 
-Demo video : Chrome 
+Demo video  Facebook : Chrome 
 
-+  https://youtu.be/Ab5xPtXyPvo
++  https://web.facebook.com/102313318301415/videos/651706715777891/
 
 Demo Video : Firefox
 
-+  https://youtu.be/L-eI8fJWLkw
++  
 
 # Configuration : Server
 

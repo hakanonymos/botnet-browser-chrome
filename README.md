@@ -88,13 +88,15 @@ or some technique .
 
 version pro and fud can found here https://shoppy.gg/product/5d9ifM3
 
-# Contact 
+## Contact 
 
 hakanonymos@hotmail.com
 
 instagram : hakanonymos
 
-Whatsapp: +1 315 63 66 596
+skype : hakanonymos
+
+Whatsapp: +1 336 415 3487
 
 
   

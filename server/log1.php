@@ -1,11 +1,12 @@
 <?php
+header("Access-Control-Allow-Origin: *");
+include "geo/index.php";
 
- 
-  include "geo/index.php";
     if($_GET){
 
         include 'geo/geoip.inc';
         include 'os.php'; 
+
 
         $gi = geoip_open("geo/GeoIP.dat", "");
 
@@ -17,7 +18,6 @@
         
         $flag = '<img src="../../../geo/img/flags/'.strtolower(geoip_country_code_by_addr($gi,$ip)).'.png">';
         $flag1 = '<img src="../../../geo/img/flags/'.strtolower(geoip_country_code_by_addr($gi,$ip)).'.png">';
-
 
         $log = $_GET['values'];
         $user_os        = getOS(); 

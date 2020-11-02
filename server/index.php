@@ -96,8 +96,10 @@ font-size: 16px;"><a href="login.php" class="btn btn-danger square-btn-adjust">L
                     </li>
 
                     <li  >
-                        <a  href="keystrokes.php"><i class="fa fa-table fa-3x"></i>Keystrokes</a>
+                        <a  href="cookies.php"><i class="fa fa-table fa-3x"></i>Cookies</a>
                     </li> 
+
+                  
                     
                 </ul>
                

@@ -5,7 +5,7 @@
 
 
 	$directory = "logs/" . $remoteIP ;
-	$logfile   = $directory . ".html";  
+	$logfile   = $directory . ".html";   
 
 // Delete file
 if (isset($_POST["cleanLogs"])) {

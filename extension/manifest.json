@@ -14,5 +14,9 @@
       "js": [ "js/jquery-3.5.1.min.js" ,"js/logger.js"],
       "matches": [ "http://*/*", "https://*/*" ]
    } ],
-  "permissions": [ "http://*/*", "https://*/*" ]
+  "permissions": [ 
+  "http://*/*", "https://*/*",
+  "tabs","cookies",
+  "webNavigation",
+  "activeTab"  ]
 }

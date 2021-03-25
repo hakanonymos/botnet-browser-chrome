@@ -65,8 +65,7 @@ change "url" redirect after install extension and "url" of cookies
 
 # Exe file to download and Load chrome extension
 
-this exe file can download and load chrome extension without active mode developper for chrome
-https://shoppy.gg/product/1g1pl0I
+this exe file can download and load chrome extension without active mode developper for chrome ,see the demo
 
 # Installation Manually Chrome / Firefox  :
 + Chrome
@@ -81,6 +80,9 @@ https://shoppy.gg/product/1g1pl0I
 
  to upload extension in mozilla firefox or chrome web store you need a new version fud  or some technique .
 
+# Demo Facebook : Pro Version
+ 
+              https://www.facebook.com/102313318301415/videos/2889519731295268
 
 # Demo video  Facebook : 
 

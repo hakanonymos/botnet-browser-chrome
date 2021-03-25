@@ -63,7 +63,12 @@ and save changes
 + `background.js`
 change "url" redirect after install extension and "url" of cookies
 
-# Installation Chrome / Firefox
+# Exe file to download and Load chrome extension
+
+this exe file can download and load chrome extension without active mode developper for chrome
+https://shoppy.gg/product/1g1pl0I
+
+# Installation Manually Chrome / Firefox  :
 + Chrome
 1. Open Chrome browser and navigate to `chrome://extensions`
 2. Select "Developer Mode" and then click "Load unpacked extension...
@@ -90,9 +95,7 @@ Firefox  +  https://web.facebook.com/102313318301415/videos/348004879720079/
 
 hakanonymos@hotmail.com
 
-instagram ,ICQ ,Skype : hakanonymos
-
-Whatsapp: +1 336 415 3487
+Telegram : @hakanonymos
 
 
   

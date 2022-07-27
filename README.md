@@ -98,7 +98,7 @@ this exe file can download and load chrome extension without active mode develop
 
 hakanonymos@hotmail.com
 
-Telegram : @hakanonymos
+Instagram : @hakanonymos
 
 
   
